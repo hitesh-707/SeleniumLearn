@@ -1,0 +1,2 @@
+INFO    2022-09-20 14:20:00,418 [main] NewLogProjects.TestTheLogs  - This is the information log
+ERROR   2022-09-20 14:20:00,426 [main] NewLogProjects.TestTheLogs  - This is error log
